@@ -3,6 +3,10 @@
 
 
 Usando NodeJS e EJS como engine View.
+<hr>
+Faço o clone do repositorio ou baixe em sua maquina.
+e baixe as depedencias usando npm install
+<hr>
 
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/spiderbuddy411/Perguntas-JS-EJS/blob/main/midias/Video.mp4?raw=true)
