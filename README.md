@@ -7,6 +7,8 @@ Usando NodeJS e EJS como engine View.
 Faço o clone do repositorio ou baixe em sua maquina.
 e instale as depedencias usando nesse projeto usando npm install
 <hr>
+Banco de dados utilizado foi o MySQL
+<hr>
 
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/spiderbuddy411/Perguntas-JS-EJS/blob/main/midias/Video.mp4?raw=true)
