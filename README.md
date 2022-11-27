@@ -5,7 +5,7 @@
 Usando NodeJS e EJS como engine View.
 <hr>
 Faço o clone do repositorio ou baixe em sua maquina.
-e baixe as depedencias usando npm install
+e instale as depedencias usando nesse projeto usando npm install
 <hr>
 
 
